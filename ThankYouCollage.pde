@@ -1,7 +1,7 @@
 //add thank you code here
-PImage boba;
-PImage straw;
-PImage boba2;
+/* @pjs preload="boba.png"; */
+/* @pjs preload="straw.png"; */
+/* @pjs preload="boba2.png"; */
 
 void setup() {
   size(600, 600);
